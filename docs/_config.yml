@@ -20,7 +20,7 @@ remote_theme: mmistakes/so-simple-theme
 locale: en-US
 title: "So Simple"
 description: "A simple Jekyll theme for words and pictures."
-baseurl: "/Storage/storage/"
+baseurl: /Storage/storage/
 url: "https://pipigoyoung.github.io"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
