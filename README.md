@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/).
+Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-You can use the [editor on GitHub](https://github.com/pipigoyoung/storage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I have made this into a Jekyll Theme.
+**Demo:** [http://webjeda.com/online-cv/](http://webjeda.com/online-cv/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The default theme would look like this:
 
-### Markdown
+![online cv Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-jekyll-theme.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The theme is responsive:
 
-```markdown
-Syntax highlighted code block
+![online cv responsive Jekyll theme](https://github.com/sharu725/online-cv/raw/master/assets/images/online-cv-responsive-jekyll-theme.png)
 
-# Header 1
-## Header 2
-### Header 3
+There are 6 color schemes available:
 
-- Bulleted
-- List
+| Default | Style 2 | Style 3 |
+|---------|---------|---------|
+| <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-1.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-2.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-3.jpg" width="300"/> |
 
-1. Numbered
-2. List
+| Style 4 | Style 5 | Style 6 |
+|---------|---------|---------|
+| <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-4.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-5.jpg" width="300"/> | <img src="http://themes.3rdwavemedia.com/wp-content/uploads/2016/01/free-resume-cv-bootstrap-template-for-developer-color-6.jpg" width="300"/> |
 
-**Bold** and _Italic_ and `Code` text
+## Installation
 
-[Link](url) and ![Image](src)
-```
+* Fork the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at https://username.github.io/online-cv/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-### Jekyll Themes
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pipigoyoung/storage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
