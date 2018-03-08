@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/Storage/storage/"
+baseurl: "/storage/"
 url: "https://pipigoyoung.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
