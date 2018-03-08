@@ -1,21 +1,15 @@
-jQuery(document).ready(function($) {
+$(document).ready(function() {
+  // main menu toggle
+  var toggleButton = document.getElementById("menu-toggle");
+  var menu = document.getElementById("primary-nav");
 
-    $('.level-bar-inner').css('width', '0');
-    
-    $(window).on('load', function() {
+  toggleButton.addEventListener("click", function() {
+    menu.classList.toggle("js-menu-is-open");
+  });
 
-        $('.level-bar-inner').each(function() {
-        
-            var itemWidth = $(this).data('level');
-            
-            $(this).animate({
-                width: itemWidth
-            }, 800);
-            
-        });
+  // initialize smooth scroll
+  $("a").smoothScroll({ offset: -20 });
 
-    });
-   
-    
-
+  // add lightbox class to all image links
+  $("a[href$='.jpg'], a[href$='.png'], a[href$='.gif']").attr("data-lity", "");
 });
