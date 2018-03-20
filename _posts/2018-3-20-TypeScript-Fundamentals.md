@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Github Page
+title: TypeScript Fundamentals
 ---
 
 #TypeScript
