@@ -1,5 +1,7 @@
 ---
-layout: post
+title:  "Typescript Fundamentals"
+date:   2018-03-20 14:00:00
+categories: text
 ---
 
 # TypeScript
