@@ -1,5 +1,5 @@
-title: "Blog Title"
-author: "Blog Author"
+title: "Front-End Dev Storage"
+author: "GoyoungKim"
 description: "Really cool blog about ... something"
 more: "read more »"
 url: "https://pipigoyoung.github.io/"
@@ -9,8 +9,8 @@ permalink: pretty
 excerpt_separator: "\n\n\n" # two blank lines
 
 style:
-  minimalist: false
-  dark: false
+  minimalist: true
+  dark: true
 
 navigation:
   - index.html
