@@ -2,7 +2,7 @@ title: "Front-End Dev Storage"
 author: "GoyoungKim"
 description: "Frontend developer GoyoungKim's blog. "
 more: "read more »"
-url: "https://pipigoyoung.github.io/"
+url: "https://pipigoyoung.github.io/storage"
 baseurl: "/storage"
 paginate: 5
 permalink: pretty
@@ -22,8 +22,8 @@ comments:
 #  isso: "comments.mysite.org"
 
 links: # see http://fontawesome.io/icons/#brand for all possible icons
-  - twitter: "https://twitter.com/twitter/"
-  - github: "https://pipigoyoung.github.io/"
+  - twitter: "/"
+  - github: "https://github.com/pipigoyoung/"
   - envelope: "mailto:goyoung.dev@gmail.com"
 
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]
