@@ -7,7 +7,7 @@ categories: text
 ## Types, Variables, and Function Techniques
 
 #### 타입체크
-```TypeScript
+```js
 var list: number[] = [1,2,3,4,5];
 list =  [10,11,12,13,14,15];
 
@@ -24,7 +24,7 @@ function numbers(a: number, b:number):string {
 ```
 
 #### for...in & for...of
-```TypeScript
+```js
 // for...in and for...of
 var list: string[] = ['apple', 'banana', 'orange'];
 for ( var key in list ) {
@@ -38,7 +38,7 @@ for ( var key of list ) {
 ```
 
 ### Optional parameters
-```TypeScript
+```js
 function concatStrings(a: string, b: string, c?: string) {
     return a + b + c;
 }
@@ -52,7 +52,7 @@ var concat2 = concatStrings("a", "b");
 ```
 
 ### Function callbacks
-```TypeScript
+```js
 var callbackFuntion = function (text) {
     console.log('inside callbcak Function ' + text);
 }
