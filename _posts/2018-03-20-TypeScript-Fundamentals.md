@@ -39,6 +39,7 @@ tsc test.ts
 ```Bash
 tsc test.ts or ctrl + shift + b
 ```
+`localhost:8000/src/index.html`
 vscode에서 `ctrl + shift + b`을 사용해 빌드하면
 `Starting compilation in watch mode...` 메시지가 뜨고 `liveReload` 기능이 실행된다. 개발시에는 코드가 빈번히 변경되므로 코드의 변경을 감시하도록 한다.
 
