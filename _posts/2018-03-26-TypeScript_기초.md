@@ -1,5 +1,5 @@
 ---
-title:  "Typescript Fundamentals"
+title:  "Typescript Fundamentals #02"
 date:   2018-03-26 17:00:00
 categories: text
 ---
