@@ -22,7 +22,7 @@ function numbers(a: number, b:number):string {
   return (a + b).toString();
 }
 ```
->**_error log_**
+>**_error log_**..
 >_list = ['A', 'B', 'C', 'D', 'E'];_
 >'string[]' 형식은 'number[]' 형식에 할당할 수 없습니다.  
 >'string' 형식은 'number' 형식에 할당할 수 없습니다.
