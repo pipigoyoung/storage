@@ -27,7 +27,7 @@ function numbers(a: number, b:number):string {
 >'string[]' 형식은 'number[]' 형식에 할당할 수 없습니다.  
 >'string' 형식은 'number' 형식에 할당할 수 없습니다.
 
-#
+&nbsp;
 #### for...in & for...of
 ```js
 // for...in and for...of
@@ -41,7 +41,8 @@ for ( var key of list ) {
   console.log(key);
 }
 ```
-#
+
+&nbsp;
 ### Optional parameters
 ```js
 function concatStrings(a: string, b: string, c?: string) {
@@ -60,7 +61,7 @@ var concat2 = concatStrings("a", "b");
 > 최소 2개 이상의 인수가 필요함.
 > 2-3개의 인수가 필요한데 1개를 가져왔습니다.
 
-#
+&nbsp;
 ### Function callbacks
 ```js
 var callbackFuntion = function (text) {
@@ -75,7 +76,7 @@ function doSomethingWithACallback(initialText, callback) {
 doSomethingWithACallback('myText', callbackFuntion);
 ```
 
-#
+&nbsp;
 ### Union types
 ```js
 // Union types
@@ -86,7 +87,7 @@ unionType = 'test';
 console.log(unionType);
 ```
 
-#
+&nbsp;
 ### Object rest and spread
 ```js
 // Object rest and spread
